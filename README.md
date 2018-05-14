@@ -1,4 +1,4 @@
 # twitter-api
 
-#install
+インストール
 composer require abraham/twitteroauth
